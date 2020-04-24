@@ -1,6 +1,6 @@
 {
   "name": "a_fresh_react_app",
-  main:"index.js",
+  "main":"index.js",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
